@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<h1> MY RESUME </h1>
+
+<h2> JIK KID RODRIGUE A </h2>
+
+<img src="https://scontent.fceb8-1.fna.fbcdn.net/v/t39.30808-6/338939262_144818514949983_1857165950319165329_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHDhBhGzcvIsWfK-1Y36zQJ9jQin2e61XD2NCKfZ7rVcMLHcA9Ov35Z6POArOuxZHGda3QkC5yyFIrqzwFUYO89&_nc_ohc=xFh6Ullin1cQ7kNvgEWYLLp&_nc_zt=23&_nc_ht=scontent.fceb8-1.fna&oh=00_AfBhVNotSegmtuFQ8XGCWbLgZCGD6wX_bQPNTgxcCnI7vg&oe=6641657A"/>
+<h3> SUMMARY </h3>
+<p> I am a hardworking talented student. </p>
+
+<h3> Education</h3> 
+<ul>
+  <li> Bachelor of Arts, Business Administration - University of XYZ (2010-2014) </li>
+  
+  <h3> Work Experience </h3>
+  <ul>
+    <li> Customer Service Representative - ABC Inc. </li>
+    <li>Answered customer inquiries via phone and email</li/
+    <li> Resolved customer complaints and issues </li>
+    <li> Maintained customer records and updated account information </li>
+    
+    <li> Administrative Assistant - XYZ Corp.</li>
+    <p> June 2018-Present</p>
+    <li>Assisted with scheduling appointments and meetings </li>
+    <li> Managed incoming and outgoing mail and correspondence</li>
+    <li>Prepared reports and presentations using Microsoft Office Suite </li>
+    
+    <h3> Skills </h3>
+    <ul>
+      <li> Customer service: ⭐️⭐️⭐️⭐️⭐️ </li>
+      <li> Microsoft Office Suite: ⭐️⭐️⭐️</li>
+      <li> Organizational skills: ⭐️⭐️⭐️⭐️ </li>
+      
+      <h3> Awards and Certifications </h3>
+      <ul>
+        <li> Employee of the Month - ABC Inc. (August 2016 </li>
+
